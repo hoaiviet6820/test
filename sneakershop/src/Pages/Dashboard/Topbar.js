@@ -11,8 +11,7 @@ export default function Topbar() {
             </div>
             <div className='topRight'>
                 <div className='topbarIcon'></div>  
-                <FaBell />
-                <span className='topIcon'>2</span>    
+                <FaBell />   
             </div>
         </div>
     </div>
